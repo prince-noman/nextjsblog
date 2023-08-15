@@ -1,0 +1,50 @@
+[
+  {
+    "id": "64db786d5756b7c8ba62764c",
+    "index": 1,
+    "img": "https://www.mobile-dokan.com/wp-content/uploads/2022/08/OnePlus-9-500x500.jpg",
+    "title": "OnePlus 9",
+    "content": "dolore fugiat sunt do ipsum nisi nostrud quis duis ipsum labore labore ut nostrud tempor esse et est ullamco ullamco",
+    "date": "15-08-2023"
+  },
+  {
+    "id": "64db786de201e8cccd517d11",
+    "index": 2,
+    "img": "https://cdn.dxomark.com/wp-content/uploads/medias/post-138310/OnePlus-11_featured-image-packshot-review-Recovered.jpg",
+    "title" : "OnePlus 11",
+    "content": "ad aliquip ullamco nisi incididunt laborum culpa quis ipsum voluptate anim qui veniam dolor occaecat laborum adipisicing ullamco in cillum",
+    "date": "15-08-2023"
+  },
+  {
+    "id": "64db786d83aa6aa2f8bf79c3",
+    "index": 3,
+    "img": "https://brotherselectronicsbd.com/image/cache/catalog/demo/product/Realme/Narzo%2050/Realme-Narzo-50-Speed-Blue-Price-in-Bangladesh-800x800.jpeg",
+    "title": "Realme Narzo 50",
+    "content": "cillum velit elit dolore voluptate do amet nostrud do commodo aliqua commodo irure amet eu nostrud voluptate deserunt ullamco velit",
+    "date": "15-08-2023"
+  },
+  {
+    "id": "64db786df717960ab318d7fa",
+    "index": 4,
+    "img": "https://fdn2.mobgsm.com/vv/pics/oppo/oppo-reno6-pro-5g-2.jpg",
+    "title": "Oppo Reno Pro 5G",
+    "content": "cupidatat consequat ullamco eiusmod id officia qui eiusmod proident anim velit eu ad non in adipisicing est aliqua exercitation incididunt",
+    "date": "15-08-2023"
+  },
+  {
+    "id": "64db786d84aa9c5057fb67af",
+    "index": 5,
+    "img": "https://www.gizmochina.com/wp-content/uploads/2020/05/iphone-12-pro-max-family-hero-all-600x600.jpg",
+    "title": "iPhone 12 Pro Max",
+    "content": "sint labore occaecat magna consequat anim cupidatat non reprehenderit voluptate voluptate enim ad sit Lorem dolore nostrud aliqua non sit",
+    "date": "15-08-2023"
+  },
+  {
+    "id": "64db786d68b087f65860b6db",
+    "index": 6,
+    "img": "https://www.gizmochina.com/wp-content/uploads/2019/09/Apple-iPhone-11-1.jpg",
+    "title": "iPhone 11",
+    "content": "aliquip id laborum occaecat velit culpa voluptate enim fugiat aliquip enim laborum enim mollit duis occaecat veniam deserunt nostrud quis",
+    "date": "15-08-2023"
+  }
+]
